@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "noImplicitAny": true,
+    "importHelpers": true,
+    "noUnusedLocals": true,
+    "removeComments": false,
+    "preserveConstEnums": true,
+    "sourceMap": true,
+    "outDir": "lib",
+    "rootDir": "src",
+    "target": "es6",
+    "strict": true
+  }
+}
